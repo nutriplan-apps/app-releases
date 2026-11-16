@@ -1,9 +1,9 @@
 {
-    "version_code":  210,
-    "version_name":  "2.1.0",
+    "version_code":  220,
+    "version_name":  "2.2.0",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.1.0/nutriplan_update.zip",
-    "release_notes":  "• Nuova interfaccia Multi-Pagina a Viste (Cartella Paziente, Piano Pasti, Andamento Storico, Lista Spesa, Archivio Pazienti, Catalogo Alimenti)\n• Calcolo bioenergetico Mifflin-St Jeor a piena larghezza\n• Cruscotto macronutrienti e grafico a ciambella sempre visibile\n• Ottimizzazione spazio di lavoro per nutrizionista",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.2.0/nutriplan_update.zip",
+    "release_notes":  "• Nuova Home Dashboard integrata (panoramica globale base dati SQLite)\n• 4 KPI card: totale pazienti, visite svolte, BMI medio, banca dati alimenti\n• Ciambella Canvas offline per ripartizione classi BMI della popolazione\n• Feed pazienti recenti con accesso istantaneo alla scheda\n• Quadro patologie ed intolleranze frequenti con tag numerici\n• Azioni rapide operative a un clic",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
