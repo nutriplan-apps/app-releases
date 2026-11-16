@@ -1,9 +1,9 @@
 {
-    "version_code":  250,
-    "version_name":  "2.5.0",
+    "version_code":  251,
+    "version_name":  "2.5.1",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.0/nutriplan_update.zip",
-    "release_notes":  "• Sicurezza Zero-Knowledge: password mai in chiaro (hash SHA-256 client-side).\n• Possibilità di eliminare rilevazioni e visite precedenti dallo Storico.\n• Timestamp visite e prescrizioni formattato in GG/MM/AAAA HH:MM.\n• Avvio cartella clinica pulito senza paziente fittizio.\n• Allineamento alimenti multi-categoria nel catalogo SQLite.\n• Supporto a schema dietetico con scelte multiple alternative in \u0027OR\u0027 sia a schermo che nel PDF A4.",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.1/nutriplan_update.zip",
+    "release_notes":  "• Risolto errore \u0027database is locked\u0027: abilitata modalità WAL ad alte prestazioni con concorrenza multithread e timeout a 30s.\n• Gestione atomica sicura delle transazioni di cancellazione visite e salvataggio.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
