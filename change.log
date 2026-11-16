@@ -1,9 +1,9 @@
 {
-    "version_code":  252,
-    "version_name":  "2.5.2",
+    "version_code":  253,
+    "version_name":  "2.5.3",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.2/nutriplan_update.zip",
-    "release_notes":  "• Risolto errore net::ERR_EMPTY_RESPONSE nel salvataggio scheda paziente.\n• Sanitizzazione robusta dei valori numerici vuoti (circonferenze vita, fianchi, note) con safe_float.\n• Gestione atomica del salvataggio nel database SQLite cifrato.",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.3/nutriplan_update.zip",
+    "release_notes":  "• Visualizzazione Catalogo Alimenti raggruppata per nome: una sola riga per alimento con tutte le etichette delle categorie assegnate (Pranzo, Cena, ecc.).\n• Filtraggio intelligente per categoria mantenendo la visualizzazione unificata.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
