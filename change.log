@@ -1,9 +1,9 @@
 {
-    "version_code":  251,
-    "version_name":  "2.5.1",
+    "version_code":  252,
+    "version_name":  "2.5.2",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.1/nutriplan_update.zip",
-    "release_notes":  "• Risolto errore \u0027database is locked\u0027: abilitata modalità WAL ad alte prestazioni con concorrenza multithread e timeout a 30s.\n• Gestione atomica sicura delle transazioni di cancellazione visite e salvataggio.",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.2/nutriplan_update.zip",
+    "release_notes":  "• Risolto errore net::ERR_EMPTY_RESPONSE nel salvataggio scheda paziente.\n• Sanitizzazione robusta dei valori numerici vuoti (circonferenze vita, fianchi, note) con safe_float.\n• Gestione atomica del salvataggio nel database SQLite cifrato.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
