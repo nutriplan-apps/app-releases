@@ -3,7 +3,7 @@
     "version_name":  "2.5.7",
     "release_date":  "2026-11-16",
     "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.7/nutriplan_update.zip",
-    "release_notes":  "Auto-ripristino e resilienza catalogo alimenti bromatologici: riparazione automatica colonna attivo ed assicurazione disponibilità alimenti anche con fallback immediato.",
+    "release_notes":  "Fix swap file updater: terminazione affidabile processi precedenti e rimozione blocco vault per aggiornamenti.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
