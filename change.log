@@ -1,9 +1,9 @@
 {
-    "version_code":  254,
-    "version_name":  "2.5.4",
+    "version_code":  255,
+    "version_name":  "2.5.5",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.4/nutriplan_update.zip",
-    "release_notes":  "• Inizializzazione completa della Cartella Paziente da Home e da Archivio: caricamento automatico di anagrafica, sesso, età, altezza, peso, circonferenze, LAF, patologie e note.\n• Navigazione diretta alla pagina \u0027Cartella Paziente\u0027 con ricalcolo immediato dei parametri bioenergetici (BMI, WHR, BMR, TDEE).",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.5/nutriplan_update.zip",
+    "release_notes":  "Aggiunta modale creazione e modifica rilevazioni/visite. Gestione avanzata catalogo alimenti con modifica e cancellazione sicura o disattivazione/riattivazione.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
