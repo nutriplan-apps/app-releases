@@ -1,9 +1,9 @@
 {
-    "version_code":  260,
-    "version_name":  "2.6.0",
+    "version_code":  261,
+    "version_name":  "2.6.1",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.6.0/nutriplan_update.zip",
-    "release_notes":  "• Fix: risolto errore datetime nel salvataggio del piano dietetico.\n• Caricamento automatico della dieta salvata associata al paziente.\n• Storico completo delle diete con versioning non distruttivo (data modifica).\n• Modale interattiva di consultazione diete storiche (Kcal, macronutrienti, alimenti e grammature) con funzione di ripristino.",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.6.1/nutriplan_update.zip",
+    "release_notes":  "• UI Fix: Corretto contrasto e visibilità del pulsante \u0027Chiudi\u0027 nella modale Storico Diete.\n• Fix: risolto errore datetime nel salvataggio del piano dietetico.\n• Caricamento automatico della dieta salvata associata al paziente.\n• Storico completo delle diete con versioning non distruttivo.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
