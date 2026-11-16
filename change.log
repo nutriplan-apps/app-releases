@@ -1,9 +1,9 @@
 {
-    "version_code":  200,
-    "version_name":  "2.0.0",
+    "version_code":  210,
+    "version_name":  "2.1.0",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.0.0/nutriplan_update.zip",
-    "release_notes":  "• Nuova Suite Clinica 2.0: Grafico macronutrienti canvas\n• Pianificatore pasti settimanale (LUN-DOM)\n• Lista spesa automatica per reparto\n• Alert clinici real-time (glutine, lattosio, diabete, ipertensione)\n• Storico visite e grafico andamento peso/BMI\n• Centro backup e ripristino database",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.1.0/nutriplan_update.zip",
+    "release_notes":  "• Nuova interfaccia Multi-Pagina a Viste (Cartella Paziente, Piano Pasti, Andamento Storico, Lista Spesa, Archivio Pazienti, Catalogo Alimenti)\n• Calcolo bioenergetico Mifflin-St Jeor a piena larghezza\n• Cruscotto macronutrienti e grafico a ciambella sempre visibile\n• Ottimizzazione spazio di lavoro per nutrizionista",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
