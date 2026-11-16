@@ -1,9 +1,9 @@
 {
-    "version_code":  266,
-    "version_name":  "2.6.6",
-    "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.6.6/nutriplan_update.zip",
-    "release_notes":  "• Risolto censimento ed estrazione visite: ricerca flessibile paziente e supporto inversione Cognome/Nome\n• Risolto aggiornamento automatico dello storico visite al salvataggio della scheda\n• Aggiornata data nel grafico di andamento temporale",
+    "version_code":  267,
+    "version_name":  "2.6.7",
+    "release_date":  "2026-11-17",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.6.7/nutriplan_update.zip",
+    "release_notes":  "• Rimossa cifratura del file database su disco (mantenuta protezione password frontend)\n• Modificato flusso rilevazioni: Salva Rilevazione riporta i dati sulla scheda e Salva Scheda registra la nuova visita\n• Prevenuta sovrascrittura visite storiche",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
