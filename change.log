@@ -1,9 +1,9 @@
 {
-    "version_code":  257,
-    "version_name":  "2.5.7",
+    "version_code":  258,
+    "version_name":  "2.5.8",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.7/nutriplan_update.zip",
-    "release_notes":  "Fix swap file updater: terminazione affidabile processi precedenti e rimozione blocco vault per aggiornamenti.",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.8/nutriplan_update.zip",
+    "release_notes":  "• Aggiornamento Real-Time contatori al check/de-check alimenti.\n• Isolamento spunte alimentari per singolo giorno della settimana.\n• Salvataggio scheda intelligente: aggiunge visita solo se prima volta (0 visite), altrimenti aggiorna scheda e dieta esistenti.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
