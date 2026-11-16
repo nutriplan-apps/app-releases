@@ -1,9 +1,9 @@
 {
-    "version_code":  230,
-    "version_name":  "2.3.0",
+    "version_code":  240,
+    "version_name":  "2.4.0",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.3.0/nutriplan_update.zip",
-    "release_notes":  "• Selezione multi-categoria per l\u0027inserimento di nuovi alimenti (spunta contemporanea di Pranzo, Cena, Colazione, Snack, Condimenti)\n• Inserimento simultaneo nel database SQLite e nei menu a tendina dei pasti pertinenti\n• Miglioramenti interfaccia Catalogo Alimenti",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.4.0/nutriplan_update.zip",
+    "release_notes":  "• Protezione crittografica Vault AES-256-GCM conforme GDPR art. 9 (dati sanitari)\n• Database clinico cifrato a riposo (at-rest): illeggibile da viewer SQLite esterni senza password\n• Schermata Security Gate all\u0027avvio con configurazione Master Password e sblocco sicuro\n• Pulsante \u0027Blocca Sessione\u0027 rapido per proteggere i dati quando ci si allontana dalla postazione\n• Autodistruzione memoria/lock automatico alla chiusura dell\u0027applicazione",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
