@@ -1,9 +1,9 @@
 {
-    "version_code":  264,
-    "version_name":  "2.6.4",
+    "version_code":  265,
+    "version_name":  "2.6.5",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.6.4/nutriplan_update.zip",
-    "release_notes":  "• Fix Dashboard BMI: conteggio statistico basato sui pazienti unici (ultima visita registrata per paziente) e non sul totale delle visite storiche.",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.6.5/nutriplan_update.zip",
+    "release_notes":  "• Visualizzazione permanente del badge versione corrente (es. v2.6.5) nell\u0027Header in alto a sinistra accanto al titolo dell\u0027applicazione.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
