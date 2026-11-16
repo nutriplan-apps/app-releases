@@ -1,9 +1,9 @@
 {
-    "version_code":  253,
-    "version_name":  "2.5.3",
+    "version_code":  254,
+    "version_name":  "2.5.4",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.3/nutriplan_update.zip",
-    "release_notes":  "• Visualizzazione Catalogo Alimenti raggruppata per nome: una sola riga per alimento con tutte le etichette delle categorie assegnate (Pranzo, Cena, ecc.).\n• Filtraggio intelligente per categoria mantenendo la visualizzazione unificata.",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.4/nutriplan_update.zip",
+    "release_notes":  "• Inizializzazione completa della Cartella Paziente da Home e da Archivio: caricamento automatico di anagrafica, sesso, età, altezza, peso, circonferenze, LAF, patologie e note.\n• Navigazione diretta alla pagina \u0027Cartella Paziente\u0027 con ricalcolo immediato dei parametri bioenergetici (BMI, WHR, BMR, TDEE).",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
