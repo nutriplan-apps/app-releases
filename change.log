@@ -1,9 +1,9 @@
 {
-    "version_code":  220,
-    "version_name":  "2.2.0",
+    "version_code":  230,
+    "version_name":  "2.3.0",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.2.0/nutriplan_update.zip",
-    "release_notes":  "• Nuova Home Dashboard integrata (panoramica globale base dati SQLite)\n• 4 KPI card: totale pazienti, visite svolte, BMI medio, banca dati alimenti\n• Ciambella Canvas offline per ripartizione classi BMI della popolazione\n• Feed pazienti recenti con accesso istantaneo alla scheda\n• Quadro patologie ed intolleranze frequenti con tag numerici\n• Azioni rapide operative a un clic",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.3.0/nutriplan_update.zip",
+    "release_notes":  "• Selezione multi-categoria per l\u0027inserimento di nuovi alimenti (spunta contemporanea di Pranzo, Cena, Colazione, Snack, Condimenti)\n• Inserimento simultaneo nel database SQLite e nei menu a tendina dei pasti pertinenti\n• Miglioramenti interfaccia Catalogo Alimenti",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
