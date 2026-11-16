@@ -1,9 +1,9 @@
 {
-    "version_code":  240,
-    "version_name":  "2.4.0",
+    "version_code":  250,
+    "version_name":  "2.5.0",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.4.0/nutriplan_update.zip",
-    "release_notes":  "• Protezione crittografica Vault AES-256-GCM conforme GDPR art. 9 (dati sanitari)\n• Database clinico cifrato a riposo (at-rest): illeggibile da viewer SQLite esterni senza password\n• Schermata Security Gate all\u0027avvio con configurazione Master Password e sblocco sicuro\n• Pulsante \u0027Blocca Sessione\u0027 rapido per proteggere i dati quando ci si allontana dalla postazione\n• Autodistruzione memoria/lock automatico alla chiusura dell\u0027applicazione",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.0/nutriplan_update.zip",
+    "release_notes":  "• Sicurezza Zero-Knowledge: password mai in chiaro (hash SHA-256 client-side).\n• Possibilità di eliminare rilevazioni e visite precedenti dallo Storico.\n• Timestamp visite e prescrizioni formattato in GG/MM/AAAA HH:MM.\n• Avvio cartella clinica pulito senza paziente fittizio.\n• Allineamento alimenti multi-categoria nel catalogo SQLite.\n• Supporto a schema dietetico con scelte multiple alternative in \u0027OR\u0027 sia a schermo che nel PDF A4.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
