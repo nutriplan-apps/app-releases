@@ -1,9 +1,9 @@
 {
-    "version_code":  255,
-    "version_name":  "2.5.5",
+    "version_code":  256,
+    "version_name":  "2.5.6",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.5/nutriplan_update.zip",
-    "release_notes":  "Aggiunta modale creazione e modifica rilevazioni/visite. Gestione avanzata catalogo alimenti con modifica e cancellazione sicura o disattivazione/riattivazione.",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.6/nutriplan_update.zip",
+    "release_notes":  "Fix salvataggio e caricamento del campo Eta del paziente nel database SQLite e rimozione completa di qualsiasi valore o mock predefinito residuo.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
