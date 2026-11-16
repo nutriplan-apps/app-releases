@@ -1,9 +1,9 @@
 {
-    "version_code":  256,
-    "version_name":  "2.5.6",
+    "version_code":  257,
+    "version_name":  "2.5.7",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.6/nutriplan_update.zip",
-    "release_notes":  "Fix salvataggio e caricamento del campo Eta del paziente nel database SQLite e rimozione completa di qualsiasi valore o mock predefinito residuo.",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.7/nutriplan_update.zip",
+    "release_notes":  "Auto-ripristino e resilienza catalogo alimenti bromatologici: riparazione automatica colonna attivo ed assicurazione disponibilità alimenti anche con fallback immediato.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
