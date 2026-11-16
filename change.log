@@ -1,9 +1,9 @@
 {
-    "version_code":  263,
-    "version_name":  "2.6.3",
+    "version_code":  264,
+    "version_name":  "2.6.4",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.6.3/nutriplan_update.zip",
-    "release_notes":  "• Nuova cartella \u0027bck\u0027 per backup automatici ad ogni avvio (rotazione max 5 copie).\n• Nuovo pulsante e modale \u0027Carica Backup\u0027 con cronologia decrescente per data (GG/MM/YYYY HH:MM) e ripristino istantaneo.\n• Mantenuta piena compatibilità con vault cifrato AES-256 e SQLite offline-first.",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.6.4/nutriplan_update.zip",
+    "release_notes":  "• Fix Dashboard BMI: conteggio statistico basato sui pazienti unici (ultima visita registrata per paziente) e non sul totale delle visite storiche.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
