@@ -1,9 +1,9 @@
 {
-    "version_code":  258,
-    "version_name":  "2.5.8",
+    "version_code":  259,
+    "version_name":  "2.5.9",
     "release_date":  "2026-11-16",
-    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.8/nutriplan_update.zip",
-    "release_notes":  "• Aggiornamento Real-Time contatori al check/de-check alimenti.\n• Isolamento spunte alimentari per singolo giorno della settimana.\n• Salvataggio scheda intelligente: aggiunge visita solo se prima volta (0 visite), altrimenti aggiorna scheda e dieta esistenti.",
+    "download_url":  "https://github.com/nutriplan-apps/app-releases/releases/download/v2.5.9/nutriplan_update.zip",
+    "release_notes":  "• Caricamento automatico della dieta salvata associata al paziente.\n• Storico completo delle diete con versioning non distruttivo (data modifica).\n• Modale interattiva di consultazione diete storiche (Kcal, macronutrienti, alimenti e grammature) con funzione di ripristino.",
     "is_mandatory":  false,
     "min_compatible_version":  100
 }
